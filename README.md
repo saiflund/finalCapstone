@@ -4,6 +4,9 @@ HyperionDev SWE Bootcamp capstone project
 This program has the functionality of a simple task management system
 This program is designed for a small business to help it to manage tasks assigned to each member of a team
 
+The program was created using Visual Studio Code, though it can be ran in any IDE. 
+Open the file and run it, the initial login is always 'admin' and 'password'
+
 The program allows the admin to register users to a database, add tasks to corresponding users and view all tasks assigned to all users using the following functions:
 reg_user
 add_task
@@ -32,3 +35,6 @@ The percentage of the total number of tasks that have been assigned to that user
 The percentage of the tasks assigned to that user that have been completed
 The percentage of the tasks assigned to that user that must still be completed
 The percentage of the tasks assigned to that user that have not yet been completed and are overdue
+
+![image](https://github.com/saiflund/finalCapstone/assets/102238232/d8d1c4de-59b3-4a1c-bd27-073529eb624b)
+
