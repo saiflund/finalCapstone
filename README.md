@@ -36,5 +36,6 @@ The percentage of the tasks assigned to that user that have been completed
 The percentage of the tasks assigned to that user that must still be completed
 The percentage of the tasks assigned to that user that have not yet been completed and are overdue
 
-![image](https://github.com/saiflund/finalCapstone/assets/102238232/d8d1c4de-59b3-4a1c-bd27-073529eb624b)
+![image](https://github.com/saiflund/finalCapstone/assets/102238232/53a25ea9-16c5-4f1e-b46b-70ae19a1c5c0)
+
 
